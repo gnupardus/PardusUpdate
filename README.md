@@ -1,0 +1,4 @@
+PardusUpdate
+============
+
+Pardus Güncelleme Arabirimi
